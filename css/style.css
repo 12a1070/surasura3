@@ -8,12 +8,29 @@ p, li td {
   line-height: 1.7;
 }
 
+a:link {
+  color: #F07D34;
+  text-decoration: none;
+}
+
+a:visited {
+color: #F07D34;
+}
+
+a:hover {
+  color: #F07D34;
+  text-decoration: underline;
+}
 
 /* すべてのページに適用 ヘッダー */
 
 /* すべてのページに適用 ヒーロー */
 
 /* すべてのページに適用 メイン */
+main h2 {
+  color: #253958;
+  font-size: 1.3rem;
+}
 
 /* すべてのページに適用 フッター */
 
