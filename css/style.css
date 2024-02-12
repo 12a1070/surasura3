@@ -4,6 +4,9 @@ html {
   font-family: sans-serif;
 }
 
+p, li td {
+  line-height: 1.7;
+}
 
 
 /* すべてのページに適用 ヘッダー */
