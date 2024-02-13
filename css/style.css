@@ -22,6 +22,14 @@ a:hover {
   text-decoration: underline;
 }
 
+.logo {
+  text-align: center;
+}
+
+.hero {
+  text-align: center;
+}
+
 /* すべてのページに適用 ヘッダー */
 
 /* すべてのページに適用 ヒーロー */
@@ -34,6 +42,19 @@ main h2 {
 
 /* すべてのページに適用 フッター */
 
-/* 個別のスタイル */
+.gotop {
+text-align: center;
+}
 
+.copyright {
+  background-color: #253958;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+/* 個別のスタイル */
 /* index.html */
+
+.logo-whale {
+  text-align: center;
+}
