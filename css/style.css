@@ -4,6 +4,10 @@ html {
   font-family: sans-serif;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 p, li td {
   line-height: 1.7;
 }
@@ -47,6 +51,8 @@ text-align: center;
 }
 
 .copyright {
+  padding-top: 75px;
+  padding-bottom: 75px;
   background-color: #253958;
   color: #FFFFFF;
   text-align: center;
