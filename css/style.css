@@ -8,6 +8,10 @@ html {
   box-sizing: border-box;
 }
 
+body {
+  margin: 0 0 0 0;
+}
+
 p, li td {
   line-height: 1.7;
 }
@@ -51,6 +55,8 @@ text-align: center;
 }
 
 .copyright {
+  margin-top: 20px;
+  margin-bottom: 0;
   padding-top: 75px;
   padding-bottom: 75px;
   background-color: #253958;
