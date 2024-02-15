@@ -44,6 +44,8 @@ a:hover {
 
 /* すべてのページに適用 メイン */
 main h2 {
+  margin: 60px 0 20px 0;
+  border-bottom: 2px solid #253958;
   color: #253958;
   font-size: 1.3rem;
 }
