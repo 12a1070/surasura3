@@ -34,15 +34,27 @@ img {
   max-width: 100%;
 }
 
-.logo {
-  text-align: center;
-}
-
 .hero {
   text-align: center;
 }
 
 /* すべてのページに適用 ヘッダー */
+
+.logo {
+  text-align: center;
+}
+
+.nav a:link {
+  color: #253958;
+}
+
+.nav a:visited {
+  color: #253958;
+}
+.nav a:hover {
+  text-decoration: none;
+}
+
 
 /* すべてのページに適用 ヒーロー */
 
