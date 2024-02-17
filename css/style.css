@@ -40,8 +40,23 @@ img {
 
 /* すべてのページに適用 ヘッダー */
 
+.header {
+  padding-top: 40px;
+  background-image: url(../images/stripe.png);
+  background-repeat: repeat-x;
+}
+
 .logo {
   text-align: center;
+}
+
+.nav ul {
+  margin: 30px 0 0 0;
+  padding: 0;
+  list-style: none;
+
+  display: flex;
+
 }
 
 .nav a:link {
@@ -53,6 +68,10 @@ img {
 }
 .nav a:hover {
   text-decoration: none;
+}
+
+.nav a:active {
+text-decoration: none;
 }
 
 
